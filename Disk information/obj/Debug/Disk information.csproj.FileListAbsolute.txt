@@ -1,0 +1,10 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\bin\Debug\Disk information.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\bin\Debug\Disk information.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\bin\Debug\Disk information.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\obj\Debug\Disk information.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\obj\Debug\Disk_information.FormDiskInfo.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\obj\Debug\Disk_information.Properties.Resources.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\obj\Debug\Disk information.csproj.GenerateResource.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\obj\Debug\Disk information.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\obj\Debug\Disk information.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №10\OOP4\Disk information\obj\Debug\Disk information.pdb
